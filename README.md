@@ -16,20 +16,24 @@ If you find something worth sharing, like some tips how to get a specific Game t
 
 There are only a few rules I would like to ask you to follow:
 
-1.  Guides should be written in an easy way. Everybody should be able to follow them.
-    Assume that people who read this never touched Linux in their entire life.
+1.  Guides should be written in an easy way. Everybody should be able to follow them.  
+Assume that people who read this never touched Linux in their entire life.
 
-2. Use Screenshots in Addition to your Guides. Seeing everything done is vital for someone who is new to something.
+2. Use Screenshots in Addition to your Guides.  
+Seeing everything done is vital for someone who is new to something.
 
-3. No guides that are Video Only. A Video Tutorial should always be supplementary. There has to be a written part as well.
+3. No guides that are Video Only. A Video Tutorial should always be supplementary.  
+There has to be a written part as well.
 
-4. Keep it clean and nice. Every Issue can be addressed here. That means no Anti-Alternative Launcher BS, please.
+4. Keep it clean and nice. Every Issue can be addressed here.  
+That means no Anti-Alternative Launcher BS, please.
 
 
 
 The File Structure of the Guide also has a few rules:
 
-1. Images, Videos and other Files should be placed under /img in a folder with the same name as your markdown file. No external Images please as these are prone to vanishing.
+1. Images, Videos and other Files should be placed under /img in a folder with the same name as your markdown file.  
+No external Images please as these are prone to vanishing.
 
 2. Your Markdown File should be placed in under /pages in its corresponding category folder.
 
