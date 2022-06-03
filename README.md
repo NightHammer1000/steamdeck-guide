@@ -5,7 +5,7 @@ A collection of Guides, Tips, Tricks and Troubleshootings for everything Steam D
 ## **Index**
 
 ### Game Fixes
-[Bioshock Remastered Collection on Epic Games Launcher](https://steamdeck.guide/pages/game-fixes/bioshock-remasterd-epic.html)
+* [Bioshock Remastered Collection on Epic Games Launcher](https://steamdeck.guide/pages/game-fixes/bioshock-remasterd-epic.html)
 
 
 
