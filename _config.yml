@@ -14,3 +14,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 remote_theme: NightHammer1000/moonwalk
+title: false
