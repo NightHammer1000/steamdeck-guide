@@ -1,13 +1,3 @@
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NightHammer1000/steamdeck-guide/main/img/index/logo.webp"/>
-</p>
-
-<h1 align="center">steamdeck.guide</h1>
-
-
-
 A collection of Guides, Tips, Tricks and Troubleshootings for everything Steam Deck related.
 
 
