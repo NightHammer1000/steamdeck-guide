@@ -27,9 +27,7 @@ Now we also need a few other things  to get our Games Running.
 #### Install the Games
 
 Now simply install the Games through the Heroic Launcher.
-
 **Be sure to make a note of the Installation Path!**
-
 We are going to need that later on!
 
 But don't try to start them once they are finished. There are still a few steps we need to take.
