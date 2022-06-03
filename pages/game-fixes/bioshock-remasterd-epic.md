@@ -14,6 +14,7 @@ It also brings a lot of cool and useful troubleshooting options with it.
 
 This can be done in **Desktop Mode** by either **Console** or the **Discovery Store**
 The Console Command for installing the Heroic Game Launcher is:
+
 `flatpak install flathub com.heroicgameslauncher.hgl`
 
 Now we also need a few other things  to get our Games Running.
