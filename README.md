@@ -40,7 +40,7 @@ There are only a few rules I would like to ask you to follow:
 
 The File Structure of the Guide also has a few rules:
 
-1. Images should be placed under /img in a folder with the same name as your markdown file. No external Images please as these are prone to vanishing.
+1. Images, Videos and other Files should be placed under /img in a folder with the same name as your markdown file. No external Images please as these are prone to vanishing.
 
 2. Your Markdown File should be placed in under /pages in its corresponding category folder.
 
