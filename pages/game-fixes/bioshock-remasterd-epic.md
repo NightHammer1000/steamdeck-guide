@@ -1,13 +1,17 @@
 # Bioshock Remastered from the Epic Shop
 
 The Epic Store Version of the Bioshock Remastered Collection currently comes with the 2K Launcher.
+
 Sadly, this 2K Launcher is totally broken in Wine and Proton.
+
 To get these three games to work requires a Workaround.
 
 ## Using Heroic Games Launcher
 
 The Heroic Games Launcher is an Open-Source Reimplementation of the Epic and GOG Launcher. 
+
 It allows you to Download and Install Epic and GoG Launcher Games without the need of running these two Launchers in Wine.
+
 It also brings a lot of cool and useful troubleshooting options with it.
 
 #### Installing Heroic Games Launcher
@@ -27,7 +31,9 @@ Now we also need a few other things  to get our Games Running.
 #### Install the Games
 
 Now simply install the Games through the Heroic Launcher.
+
 **Be sure to make a note of the Installation Path!**
+
 We are going to need that later on!
 
 But don't try to start them once they are finished. There are still a few steps we need to take.
@@ -35,9 +41,13 @@ But don't try to start them once they are finished. There are still a few steps 
 Repeat these Steps for all 3 Games:
 
 1. Click the Small Gear Icon that appears when you hover the Cursor over the Game Icon.
+
 2. Disable ESYNC and FSYNC. This fixes the very slow loading of Textures in these Games
+
 3. Set Wine Version to the downloaded Wine-GE Version if it isn't already.
+
 4. On the Left Side of the Window, under Settings, click on "Other"
+
 5. Under "Select an Alternative EXE to run" navigate to the earlier noted Install Folder and select the Game's Executable.
 
 #### Start the Game
