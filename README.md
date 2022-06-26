@@ -4,6 +4,9 @@ A collection of Guides, Tips, Tricks and Troubleshootings for everything Steam D
 
 ## Index
 
+### Steam Basics
+* [Launch diffrent Executeable for a Steam Game](https://steamdeck.guide/pages/launch_diffrent_executable.html)
+
 ### Game Fixes
 * [Bioshock Remastered Collection on Epic Games Launcher](https://steamdeck.guide/pages/game-fixes/bioshock-remasterd-epic.html)
 
@@ -29,7 +32,6 @@ There has to be a written part as well.
 That means no Anti-Alternative Launcher BS, please.
 
 
-
 The File Structure of the Guide also has a few rules:
 
 1. Images, Videos and other Files should be placed under /img in a folder with the same name as your markdown file.  
@@ -40,9 +42,3 @@ No external Images please as these are prone to vanishing.
 3. A Link to the Markdown file has to be placed under the "Index" Section of the README in its corresponding Category.
 
 If all of this is taken into consideration, your pull-request will surely be approved.
-
-
-
-
-
-
