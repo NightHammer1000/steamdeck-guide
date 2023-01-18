@@ -6,7 +6,8 @@ A collection of Guides, Tips, Tricks and Troubleshootings for everything Steam D
 
 ### Steam Basics
 * [Launch diffrent Executeable for a Steam Game](https://steamdeck.guide/pages/launch_diffrent_executable.html)
-* [Restore Library from ACF Files](https://github.com/NightHammer1000/steamdeck-guide/blob/main/pages/restore-library-from-acf.yml)
+* [Restore Library from ACF Files](https://steamdeck.guide/pages/restore-library-from-acf.html)
+* 
 
 ### Game Fixes
 * [Bioshock Remastered Collection on Epic Games Launcher](https://steamdeck.guide/pages/game-fixes/bioshock-remasterd-epic.html)
